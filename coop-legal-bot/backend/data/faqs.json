@@ -1,0 +1,222 @@
+[
+  {
+    "id": "reg-01",
+    "category": "Registration",
+    "question_en": "How do we register a new cooperative society?",
+    "keywords": ["register", "registration", "new society", "form", "incorporate", "start a cooperative"],
+    "answers": {
+      "en": "To register a cooperative society, at least 10 members (for most state Acts) must submit an application to the Registrar of Cooperative Societies along with the proposed bylaws, a list of members, proof of share capital, and an affidavit of intent. The Registrar issues a registration certificate once satisfied the object of the society is lawful and the bylaws comply with the applicable Cooperative Societies Act. Processing timelines vary by state, typically 60-90 days.",
+      "hi": "सहकारी सोसाइटी पंजीकृत करने के लिए, कम से कम 10 सदस्यों (अधिकांश राज्य अधिनियमों के अनुसार) को सहकारी सोसाइटी रजिस्ट्रार के पास प्रस्तावित उपनियम, सदस्यों की सूची, शेयर पूंजी का प्रमाण और आशय शपथ-पत्र के साथ आवेदन जमा करना होता है। रजिस्ट्रार संतुष्ट होने पर पंजीकरण प्रमाण-पत्र जारी करता है कि सोसाइटी का उद्देश्य वैध है और उपनियम संबंधित सहकारी सोसाइटी अधिनियम के अनुरूप हैं। प्रक्रिया में आमतौर पर 60-90 दिन लगते हैं, जो राज्य अनुसार भिन्न हो सकते हैं।",
+      "mr": "सहकारी संस्थेची नोंदणी करण्यासाठी, किमान 10 सदस्यांनी (बहुतांश राज्य कायद्यांनुसार) प्रस्तावित उपविधी, सदस्यांची यादी, भाग भांडवलाचा पुरावा आणि हेतूचे शपथपत्र यासह सहकारी संस्था निबंधकाकडे अर्ज सादर करावा लागतो. संस्थेचा उद्देश कायदेशीर आहे आणि उपविधी संबंधित सहकारी संस्था कायद्याशी सुसंगत आहेत याची खात्री झाल्यावर निबंधक नोंदणी प्रमाणपत्र देतात. प्रक्रियेस साधारणपणे 60-90 दिवस लागतात, जे राज्यानुसार बदलू शकतात."
+    }
+  },
+  {
+    "id": "reg-02",
+    "category": "Registration",
+    "question_en": "What documents are required for cooperative society registration?",
+    "keywords": ["documents", "papers", "required", "application form", "checklist"],
+    "answers": {
+      "en": "Common requirements: (1) application in the prescribed form, (2) four copies of proposed bylaws, (3) list of promoter members with signatures, (4) proof of admission fee and share capital deposit, (5) a bank certificate confirming funds, and (6) a no-objection or feasibility report where the state requires one (common for credit and housing cooperatives).",
+      "hi": "सामान्य आवश्यकताएं: (1) निर्धारित प्रपत्र में आवेदन, (2) प्रस्तावित उपनियमों की चार प्रतियां, (3) प्रवर्तक सदस्यों की हस्ताक्षरित सूची, (4) प्रवेश शुल्क और शेयर पूंजी जमा का प्रमाण, (5) धनराशि की पुष्टि करने वाला बैंक प्रमाण-पत्र, और (6) जहां राज्य आवश्यक करता है वहां अनापत्ति या व्यवहार्यता रिपोर्ट (ऋण और आवास सहकारी समितियों के लिए सामान्य)।",
+      "mr": "सर्वसाधारण आवश्यकता: (1) विहित नमुन्यातील अर्ज, (2) प्रस्तावित उपविधींच्या चार प्रती, (3) प्रवर्तक सदस्यांची स्वाक्षरी असलेली यादी, (4) प्रवेश शुल्क आणि भाग भांडवल जमा केल्याचा पुरावा, (5) निधीची पुष्टी करणारे बँक प्रमाणपत्र, आणि (6) राज्याने आवश्यक ठरवल्यास ना-हरकत किंवा व्यवहार्यता अहवाल (पतसंस्था व गृहनिर्माण संस्थांसाठी सामान्य)."
+    }
+  },
+  {
+    "id": "bylaw-01",
+    "category": "Bylaws & Governance",
+    "question_en": "How can a cooperative society amend its bylaws?",
+    "keywords": ["amend bylaws", "change bylaws", "modify rules", "amendment"],
+    "answers": {
+      "en": "Bylaw amendments require a resolution passed by a two-thirds majority of members present at a general body meeting called specifically for that purpose, with prior notice of the proposed changes sent to all members. The amendment must then be filed with the Registrar of Cooperative Societies for approval; it takes legal effect only after the Registrar registers the change.",
+      "hi": "उपनियम संशोधन के लिए विशेष रूप से इस उद्देश्य हेतु बुलाई गई आम सभा की बैठक में उपस्थित सदस्यों के दो-तिहाई बहुमत से प्रस्ताव पारित करना आवश्यक है, और प्रस्तावित परिवर्तनों की पूर्व सूचना सभी सदस्यों को भेजी जानी चाहिए। इसके बाद संशोधन को स्वीकृति हेतु सहकारी सोसाइटी रजिस्ट्रार के पास दाखिल करना होता है; यह तभी कानूनी रूप से प्रभावी होता है जब रजिस्ट्रार इसे पंजीकृत करता है।",
+      "mr": "उपविधी सुधारणेसाठी, त्यासाठी विशेष बोलावलेल्या सर्वसाधारण सभेत उपस्थित सदस्यांच्या दोन-तृतीयांश बहुमताने ठराव मंजूर करावा लागतो आणि प्रस्तावित बदलांची पूर्वसूचना सर्व सदस्यांना द्यावी लागते. त्यानंतर सुधारणा मंजुरीसाठी सहकारी संस्था निबंधकाकडे सादर करावी लागते; निबंधकाने नोंदणी केल्यावरच ती कायदेशीररीत्या लागू होते."
+    }
+  },
+  {
+    "id": "election-01",
+    "category": "Elections & Board",
+    "question_en": "How often should elections to the managing committee be held?",
+    "keywords": ["election", "managing committee", "board", "term", "tenure"],
+    "answers": {
+      "en": "Most Cooperative Societies Acts fix the term of an elected managing committee at 5 years, after which fresh elections must be conducted, usually supervised by a State Cooperative Election Authority. If elections are delayed beyond the term, the Registrar can appoint an administrator to run the society until elections are held.",
+      "hi": "अधिकांश सहकारी सोसाइटी अधिनियमों में निर्वाचित प्रबंध समिति का कार्यकाल 5 वर्ष निर्धारित है, जिसके बाद नए चुनाव कराए जाने चाहिए, जो आमतौर पर राज्य सहकारी चुनाव प्राधिकरण की देखरेख में होते हैं। यदि चुनाव कार्यकाल के बाद विलंबित होते हैं, तो रजिस्ट्रार चुनाव होने तक सोसाइटी चलाने के लिए एक प्रशासक नियुक्त कर सकता है।",
+      "mr": "बहुतांश सहकारी संस्था कायद्यांनुसार निर्वाचित व्यवस्थापन समितीचा कार्यकाळ 5 वर्षांचा असतो, त्यानंतर नवीन निवडणुका घेणे आवश्यक असते, ज्या सहसा राज्य सहकारी निवडणूक प्राधिकरणाच्या देखरेखीखाली होतात. निवडणुका कार्यकाळानंतर विलंबित झाल्यास, निवडणुका होईपर्यंत संस्था चालवण्यासाठी निबंधक प्रशासक नेमू शकतात."
+    }
+  },
+  {
+    "id": "election-02",
+    "category": "Elections & Board",
+    "question_en": "Can a managing committee member be removed before the term ends?",
+    "keywords": ["remove member", "disqualify", "no confidence", "recall committee member"],
+    "answers": {
+      "en": "Yes. A committee member can be removed through a no-confidence motion passed by a specified majority (often two-thirds) of the general body, or disqualified by the Registrar for misconduct, default in loan repayment to the society, or failure to attend meetings as specified in the bylaws. The exact grounds and majority required are defined in the state Act and the society's own bylaws.",
+      "hi": "हाँ। एक समिति सदस्य को आम सभा के निर्दिष्ट बहुमत (अक्सर दो-तिहाई) द्वारा पारित अविश्वास प्रस्ताव के माध्यम से हटाया जा सकता है, या रजिस्ट्रार द्वारा दुर्व्यवहार, सोसाइटी को ऋण चुकाने में चूक, या उपनियमों में निर्दिष्ट बैठकों में उपस्थित न होने के कारण अयोग्य घोषित किया जा सकता है। सटीक आधार और आवश्यक बहुमत राज्य अधिनियम और सोसाइटी के अपने उपनियमों में परिभाषित हैं।",
+      "mr": "होय. सर्वसाधारण सभेच्या निर्दिष्ट बहुमताने (अनेकदा दोन-तृतीयांश) पारित अविश्वास ठरावाद्वारे समिती सदस्याला हटवता येते, किंवा गैरवर्तन, संस्थेचे कर्ज परतफेड न करणे, किंवा उपविधींमध्ये नमूद केलेल्या बैठकांना अनुपस्थित राहिल्यास निबंधक त्यांना अपात्र ठरवू शकतात. नेमके आधार आणि आवश्यक बहुमत राज्य कायदा आणि संस्थेच्या स्वतःच्या उपविधींमध्ये नमूद केलेले असते."
+    }
+  },
+  {
+    "id": "audit-01",
+    "category": "Audit & Accounts",
+    "question_en": "Is annual audit mandatory for a cooperative society?",
+    "keywords": ["audit", "annual audit", "accounts", "auditor"],
+    "answers": {
+      "en": "Yes. Every registered cooperative society must get its accounts audited at least once a year by an auditor empanelled or approved by the Registrar, within the timeline fixed by the state Act (commonly within 4-6 months of the financial year end). The audit report and annual return must then be filed with the Registrar.",
+      "hi": "हाँ। प्रत्येक पंजीकृत सहकारी सोसाइटी को अपने खातों का कम से कम वर्ष में एक बार रजिस्ट्रार द्वारा अनुमोदित या पैनल में शामिल लेखा परीक्षक से ऑडिट कराना आवश्यक है, राज्य अधिनियम द्वारा निर्धारित समयसीमा के भीतर (आमतौर पर वित्तीय वर्ष समाप्ति के 4-6 महीने के भीतर)। इसके बाद ऑडिट रिपोर्ट और वार्षिक विवरणी रजिस्ट्रार के पास दाखिल करनी होती है।",
+      "mr": "होय. प्रत्येक नोंदणीकृत सहकारी संस्थेने वर्षातून किमान एकदा निबंधकांनी मंजूर केलेल्या किंवा पॅनेलवरील लेखापरीक्षकाकडून खात्यांचे लेखापरीक्षण करून घेणे आवश्यक आहे, राज्य कायद्याने निश्चित केलेल्या कालमर्यादेत (सहसा आर्थिक वर्ष संपल्यानंतर 4-6 महिन्यांच्या आत). त्यानंतर लेखापरीक्षण अहवाल आणि वार्षिक विवरणपत्र निबंधकांकडे सादर करावे लागते."
+    }
+  },
+  {
+    "id": "dispute-01",
+    "category": "Member Disputes",
+    "question_en": "Where can a member file a dispute against the cooperative society?",
+    "keywords": ["dispute", "complaint", "grievance", "arbitration", "cooperative court"],
+    "answers": {
+      "en": "Disputes between a member and the society (or between members, or the society and its committee) relating to management or business of the society are generally referred to arbitration or a Cooperative Court / Registrar's nominee under the dispute-resolution section of the applicable Cooperative Societies Act, rather than to a regular civil court. The specific forum and appeal process is defined in the state Act.",
+      "hi": "किसी सदस्य और सोसाइटी के बीच (या सदस्यों के बीच, या सोसाइटी और उसकी समिति के बीच) सोसाइटी के प्रबंधन या कारोबार से संबंधित विवाद आमतौर पर सामान्य दीवानी न्यायालय के बजाय, संबंधित सहकारी सोसाइटी अधिनियम की विवाद-निपटान धारा के तहत मध्यस्थता या सहकारी न्यायालय/रजिस्ट्रार के नामित व्यक्ति के पास भेजे जाते हैं। विशिष्ट मंच और अपील प्रक्रिया राज्य अधिनियम में परिभाषित है।",
+      "mr": "सदस्य आणि संस्था यांच्यातील (किंवा सदस्यांमधील, किंवा संस्था व तिची समिती यांच्यातील) संस्थेच्या व्यवस्थापन किंवा व्यवसायाशी संबंधित वाद सामान्यतः नियमित दिवाणी न्यायालयाऐवजी, संबंधित सहकारी संस्था कायद्याच्या वाद-निवारण कलमाखाली लवाद किंवा सहकार न्यायालय/निबंधकांच्या नामनिर्देशित व्यक्तीकडे पाठवले जातात. नेमके व्यासपीठ आणि अपील प्रक्रिया राज्य कायद्यात नमूद आहे."
+    }
+  },
+  {
+    "id": "dispute-02",
+    "category": "Member Disputes",
+    "question_en": "What can a member do if the committee refuses to share financial records?",
+    "keywords": ["financial records", "transparency", "refuse to share", "inspect books", "access to accounts"],
+    "answers": {
+      "en": "Members generally have a statutory right to inspect the society's books of account, audit reports, and minutes on request, subject to reasonable notice and any procedure set out in the bylaws. If the committee refuses, the member can complain in writing to the Registrar of Cooperative Societies, who has the power to direct inspection or order an inquiry into the society's affairs.",
+      "hi": "सदस्यों को आम तौर पर उचित सूचना और उपनियमों में निर्धारित प्रक्रिया के अधीन, अनुरोध पर सोसाइटी की खाता बहियों, ऑडिट रिपोर्ट और कार्यवृत्त का निरीक्षण करने का सांविधिक अधिकार होता है। यदि समिति इनकार करती है, तो सदस्य सहकारी सोसाइटी रजिस्ट्रार के पास लिखित शिकायत कर सकता है, जिसे निरीक्षण का निर्देश देने या सोसाइटी के मामलों की जांच का आदेश देने का अधिकार है।",
+      "mr": "सदस्यांना सामान्यतः योग्य सूचना आणि उपविधींमध्ये नमूद केलेल्या प्रक्रियेच्या अधीन राहून, विनंतीनुसार संस्थेची खातेवह्या, लेखापरीक्षण अहवाल आणि इतिवृत्त तपासण्याचा वैधानिक अधिकार असतो. समितीने नकार दिल्यास, सदस्य सहकारी संस्था निबंधकाकडे लेखी तक्रार करू शकतो, ज्यांना तपासणीचे निर्देश देण्याचा किंवा संस्थेच्या कारभाराची चौकशी करण्याचा अधिकार आहे."
+    }
+  },
+  {
+    "id": "loan-01",
+    "category": "Credit & Loans",
+    "question_en": "What happens if a member defaults on a loan taken from the cooperative credit society?",
+    "keywords": ["loan default", "credit society", "recovery", "npa", "non-repayment"],
+    "answers": {
+      "en": "On default, the society typically issues a demand notice and, if unresolved, can pursue recovery as an arrear of land revenue under the recovery provisions of the Cooperative Societies Act, or refer the matter to the Registrar / Cooperative Court for a recovery certificate. Defaulting members also commonly lose voting rights and eligibility to hold committee office until dues are cleared, as per most bylaws.",
+      "hi": "चूक होने पर, सोसाइटी आमतौर पर मांग नोटिस जारी करती है और यदि हल नहीं होता है, तो सहकारी सोसाइटी अधिनियम के वसूली प्रावधानों के तहत भू-राजस्व के बकाया के रूप में वसूली कर सकती है, या वसूली प्रमाण-पत्र हेतु मामला रजिस्ट्रार/सहकारी न्यायालय को भेज सकती है। अधिकांश उपनियमों के अनुसार, चूककर्ता सदस्य आमतौर पर बकाया चुकाए जाने तक मतदान अधिकार और समिति पद हेतु पात्रता भी खो देते हैं।",
+      "mr": "कर्ज थकल्यास, संस्था सहसा मागणी नोटीस जारी करते आणि निराकरण न झाल्यास, सहकारी संस्था कायद्याच्या वसुली तरतुदींनुसार जमीन महसुलाच्या थकबाकीप्रमाणे वसुली करू शकते, किंवा वसुली प्रमाणपत्रासाठी प्रकरण निबंधक/सहकार न्यायालयाकडे पाठवू शकते. बहुतांश उपविधींनुसार, थकबाकीदार सदस्य थकबाकी भरेपर्यंत मतदानाचा हक्क आणि समितीवर पद धारण करण्याची पात्रता गमावतात."
+    }
+  },
+  {
+    "id": "dissolve-01",
+    "category": "Dissolution",
+    "question_en": "How is a cooperative society wound up or dissolved?",
+    "keywords": ["dissolve", "wind up", "liquidation", "close society"],
+    "answers": {
+      "en": "A society can be dissolved voluntarily by a resolution of three-fourths of members at a general body meeting, subject to Registrar approval, or the Registrar can order dissolution if the society is not functioning, is insolvent, or its objects have failed. Once ordered, a liquidator is appointed to settle assets, liabilities, and distribute any surplus per the bylaws and the Act.",
+      "hi": "किसी सोसाइटी को आम सभा की बैठक में तीन-चौथाई सदस्यों के प्रस्ताव द्वारा स्वेच्छा से भंग किया जा सकता है, जो रजिस्ट्रार की मंजूरी के अधीन है, या यदि सोसाइटी कार्य नहीं कर रही है, दिवालिया है, या इसके उद्देश्य विफल हो गए हैं, तो रजिस्ट्रार विघटन का आदेश दे सकता है। आदेश जारी होने के बाद, संपत्तियों, देनदारियों के निपटान और उपनियमों व अधिनियम के अनुसार किसी अधिशेष के वितरण के लिए एक परिसमापक नियुक्त किया जाता है।",
+      "mr": "सर्वसाधारण सभेत तीन-चतुर्थांश सदस्यांच्या ठरावाद्वारे संस्था स्वेच्छेने विसर्जित करता येते, जे निबंधकांच्या मंजुरीच्या अधीन आहे, किंवा संस्था कार्यरत नसल्यास, दिवाळखोर असल्यास, किंवा तिचे उद्दिष्ट अयशस्वी झाल्यास निबंधक विसर्जनाचा आदेश देऊ शकतात. आदेश दिल्यानंतर, मालमत्ता, दायित्वे निकाली काढण्यासाठी आणि उपविधी व कायद्यानुसार कोणताही अतिरिक्त निधी वाटण्यासाठी एक निवाळाकर्ता (liquidator) नेमला जातो."
+    }
+  },
+  {
+    "id": "membership-01",
+    "category": "Membership",
+    "question_en": "Can the society refuse membership to an eligible applicant?",
+    "keywords": ["refuse membership", "denied membership", "eligibility", "join society"],
+    "answers": {
+      "en": "A society generally cannot arbitrarily refuse membership to a person who meets the eligibility criteria in the bylaws (area of operation, share purchase, admission fee paid, etc.). If refused without valid grounds, the applicant can appeal to the Registrar, who can direct the society to admit the applicant if the refusal is found unjustified.",
+      "hi": "जो व्यक्ति उपनियमों में निर्धारित पात्रता मानदंडों (कार्यक्षेत्र, शेयर खरीद, प्रवेश शुल्क भुगतान आदि) को पूरा करता है, उसे सोसाइटी आमतौर पर मनमाने ढंग से सदस्यता देने से इनकार नहीं कर सकती। यदि बिना वैध आधार के इनकार किया जाता है, तो आवेदक रजिस्ट्रार से अपील कर सकता है, जो इनकार को अनुचित पाए जाने पर सोसाइटी को आवेदक को प्रवेश देने का निर्देश दे सकता है।",
+      "mr": "जो व्यक्ती उपविधींमध्ये नमूद पात्रता निकष (कार्यक्षेत्र, भाग खरेदी, प्रवेश शुल्क भरणे इ.) पूर्ण करतो, त्याला संस्था सहसा मनमानीपणे सदस्यत्व नाकारू शकत नाही. वैध कारणाशिवाय नकार दिल्यास, अर्जदार निबंधकांकडे अपील करू शकतो, जे नकार अन्याय्य आढळल्यास संस्थेला अर्जदाराला प्रवेश देण्याचे निर्देश देऊ शकतात."
+    }
+  },
+  {
+    "id": "meeting-01",
+    "category": "Bylaws & Governance",
+    "question_en": "What is the quorum required for a general body meeting?",
+    "keywords": ["quorum", "general body meeting", "agm", "minimum members"],
+    "answers": {
+      "en": "Quorum requirements are set by each society's bylaws under the enabling state Act, commonly one-fifth of total members or a fixed minimum number, whichever is higher. If quorum is not met, the meeting is usually adjourned and reconvened after a notice period (often 15-30 minutes to a few days later), at which point a relaxed quorum rule may apply as specified in the bylaws.",
+      "hi": "गणपूर्ति (कोरम) की आवश्यकताएं सक्षम राज्य अधिनियम के तहत प्रत्येक सोसाइटी के उपनियमों द्वारा निर्धारित की जाती हैं, आमतौर पर कुल सदस्यों का एक-पांचवां भाग या एक निश्चित न्यूनतम संख्या, जो भी अधिक हो। यदि कोरम पूरा नहीं होता है, तो बैठक को आमतौर पर स्थगित कर दिया जाता है और सूचना अवधि (अक्सर 15-30 मिनट से लेकर कुछ दिनों बाद) के बाद पुनः बुलाया जाता है, जिस पर उपनियमों में निर्दिष्ट शिथिल कोरम नियम लागू हो सकता है।",
+      "mr": "गणसंख्या (कोरम) आवश्यकता सक्षम राज्य कायद्याखाली प्रत्येक संस्थेच्या उपविधींद्वारे ठरवली जाते, सहसा एकूण सदस्यांच्या एक-पंचमांश किंवा निश्चित किमान संख्या, जी जास्त असेल ती. कोरम पूर्ण न झाल्यास, सभा सहसा स्थगित केली जाते आणि सूचना कालावधीनंतर (सहसा 15-30 मिनिटे ते काही दिवसांनंतर) पुन्हा बोलावली जाते, त्यावेळी उपविधींमध्ये नमूद शिथिल कोरम नियम लागू होऊ शकतो."
+    }
+  },
+  {
+    "id": "pmfby-01",
+    "category": "PMFBY & Crop Insurance",
+    "question_en": "What is PMFBY and who can enroll?",
+    "keywords": ["pmfby", "crop insurance", "fasal bima", "enroll", "premium"],
+    "answers": {
+      "en": "Pradhan Mantri Fasal Bima Yojana (PMFBY) is the government's crop insurance scheme covering yield losses from natural calamities, pests, and diseases. Any farmer growing a notified crop in a notified area can enroll — loanee farmers are enrolled automatically through their bank/PACS unless they opt out, and non-loanee farmers can enroll voluntarily through their bank, CSC, or the PMFBY portal before the cut-off date for that season.",
+      "hi": "प्रधानमंत्री फसल बीमा योजना (PMFBY) सरकार की फसल बीमा योजना है जो प्राकृतिक आपदाओं, कीट व रोगों से होने वाले उपज नुकसान को कवर करती है। अधिसूचित क्षेत्र में अधिसूचित फसल उगाने वाला कोई भी किसान नामांकन कर सकता है — ऋणी किसान अपने बैंक/पैक्स के माध्यम से स्वतः नामांकित होते हैं जब तक वे बाहर न निकलें, और गैर-ऋणी किसान अपने बैंक, सीएससी या PMFBY पोर्टल के माध्यम से उस सीजन की अंतिम तिथि से पहले स्वेच्छा से नामांकन कर सकते हैं।",
+      "mr": "प्रधानमंत्री फसल विमा योजना (PMFBY) ही सरकारची पीक विमा योजना आहे जी नैसर्गिक आपत्ती, कीड व रोगांमुळे होणाऱ्या उत्पन्न नुकसानीचे संरक्षण देते. अधिसूचित क्षेत्रात अधिसूचित पीक घेणारा कोणताही शेतकरी नोंदणी करू शकतो — कर्जदार शेतकरी त्यांच्या बँक/पॅक्सद्वारे आपोआप नोंदवले जातात जोपर्यंत ते बाहेर पडत नाहीत, आणि बिगर-कर्जदार शेतकरी त्यांच्या बँक, सीएससी किंवा PMFBY पोर्टलद्वारे त्या हंगामाच्या अंतिम तारखेपूर्वी ऐच्छिकपणे नोंदणी करू शकतात."
+    }
+  },
+  {
+    "id": "pmfby-02",
+    "category": "PMFBY & Crop Insurance",
+    "question_en": "How much premium does a farmer pay under PMFBY?",
+    "keywords": ["pmfby premium", "farmer share", "subsidy", "how much pay"],
+    "answers": {
+      "en": "Farmers pay a fixed, subsidized premium: 2% of sum insured for Kharif food & oilseed crops, 1.5% for Rabi food & oilseed crops, and 5% for annual commercial/horticultural crops. The remaining actuarial premium is shared between the central and state governments as subsidy, so the farmer's out-of-pocket cost stays low regardless of the crop's actual risk premium.",
+      "hi": "किसान एक निश्चित, सब्सिडी युक्त प्रीमियम चुकाते हैं: खरीफ खाद्य व तिलहन फसलों के लिए बीमित राशि का 2%, रबी खाद्य व तिलहन फसलों के लिए 1.5%, और वार्षिक वाणिज्यिक/बागवानी फसलों के लिए 5%। शेष वास्तविक प्रीमियम केंद्र और राज्य सरकार द्वारा सब्सिडी के रूप में साझा किया जाता है, जिससे फसल के वास्तविक जोखिम प्रीमियम की परवाह किए बिना किसान की जेब से लागत कम रहती है।",
+      "mr": "शेतकरी एक निश्चित, अनुदानित प्रीमियम भरतात: खरीप अन्न व तेलबिया पिकांसाठी विमा रकमेच्या 2%, रब्बी अन्न व तेलबिया पिकांसाठी 1.5%, आणि वार्षिक व्यावसायिक/फळबाग पिकांसाठी 5%. उर्वरित वास्तविक प्रीमियम केंद्र व राज्य सरकार अनुदान म्हणून वाटून घेतात, त्यामुळे पिकाच्या प्रत्यक्ष जोखीम प्रीमियमकडे दुर्लक्ष करून शेतकऱ्याचा खर्च कमी राहतो."
+    }
+  },
+  {
+    "id": "pmfby-03",
+    "category": "PMFBY & Crop Insurance",
+    "question_en": "How do I file a crop damage claim under PMFBY?",
+    "keywords": ["claim", "crop damage", "loss", "report damage", "intimate loss"],
+    "answers": {
+      "en": "For localized damage (hailstorm, flood, landslide), intimate the loss within 72 hours through the Crop Insurance app, PMFBY portal, the toll-free insurer helpline, or your bank/PACS/agriculture officer. For widespread season-level losses, the claim is based on Crop Cutting Experiment (CCE) yield data compiled by the state government, and settlement is normally processed automatically to the farmer's linked bank account without an individual application.",
+      "hi": "स्थानीय क्षति (ओलावृष्टि, बाढ़, भूस्खलन) के लिए, Crop Insurance ऐप, PMFBY पोर्टल, बीमाकर्ता की टोल-फ्री हेल्पलाइन, या अपने बैंक/पैक्स/कृषि अधिकारी के माध्यम से 72 घंटों के भीतर नुकसान की सूचना दें। व्यापक सीज़न-स्तरीय नुकसान के लिए, दावा राज्य सरकार द्वारा संकलित फसल कटाई प्रयोग (CCE) उपज डेटा पर आधारित होता है, और भुगतान सामान्यतः व्यक्तिगत आवेदन के बिना किसान के जुड़े बैंक खाते में स्वतः संसाधित किया जाता है।",
+      "mr": "स्थानिक नुकसानीसाठी (गारपीट, पूर, भूस्खलन), Crop Insurance अ‍ॅप, PMFBY पोर्टल, विमा कंपनीची टोल-फ्री हेल्पलाइन, किंवा तुमचा बँक/पॅक्स/कृषी अधिकारी यांच्यामार्फत 72 तासांच्या आत नुकसानीची माहिती द्या. व्यापक हंगाम-स्तरीय नुकसानीसाठी, दावा राज्य सरकारने संकलित केलेल्या पीक कापणी प्रयोग (CCE) उत्पन्न आकडेवारीवर आधारित असतो, आणि रक्कम सहसा वैयक्तिक अर्जाशिवाय शेतकऱ्याच्या जोडलेल्या बँक खात्यात आपोआप जमा केली जाते."
+    }
+  },
+  {
+    "id": "scheme-01",
+    "category": "Ministry of Cooperation Schemes",
+    "question_en": "What is PACS computerization and how does it help my society?",
+    "keywords": ["pacs computerization", "computerisation", "digitisation", "ncdc", "core banking"],
+    "answers": {
+      "en": "The Ministry of Cooperation's PACS computerization scheme is digitizing Primary Agricultural Credit Societies nationwide, connecting them to a common ERP software linked with NABARD and State/District Cooperative Banks. For members, this means faster loan processing, real-time passbook and ledger records, and PACS being enabled to offer additional services (like becoming Common Service Centres, retail/fertilizer outlets, or fair-price shops) beyond just credit.",
+      "hi": "सहकारिता मंत्रालय की PACS कम्प्यूटरीकरण योजना देशभर की प्राथमिक कृषि ऋण सोसाइटियों का डिजिटलीकरण कर रही है, उन्हें नाबार्ड तथा राज्य/जिला सहकारी बैंकों से जुड़े एक सामान्य ईआरपी सॉफ्टवेयर से जोड़ा जा रहा है। सदस्यों के लिए इसका मतलब है तेज़ ऋण प्रसंस्करण, रीयल-टाइम पासबुक व लेजर रिकॉर्ड, और पैक्स को केवल ऋण के अतिरिक्त अन्य सेवाएं (जैसे कॉमन सर्विस सेंटर, रिटेल/उर्वरक आउटलेट, या उचित मूल्य दुकान बनना) प्रदान करने में सक्षम बनाना।",
+      "mr": "सहकार मंत्रालयाची PACS संगणकीकरण योजना देशभरातील प्राथमिक कृषी पतसंस्थांचे डिजिटायझेशन करत आहे, त्यांना नाबार्ड तसेच राज्य/जिल्हा सहकारी बँकांशी जोडलेल्या समान ईआरपी सॉफ्टवेअरशी जोडत आहे. सदस्यांसाठी याचा अर्थ जलद कर्ज प्रक्रिया, रिअल-टाइम पासबुक व खातेवही नोंदी, आणि पॅक्सला केवळ कर्जाव्यतिरिक्त इतर सेवा (जसे की कॉमन सर्व्हिस सेंटर, किरकोळ/खत विक्री केंद्र, किंवा स्वस्त धान्य दुकान बनणे) देण्यास सक्षम करणे असा होतो."
+    }
+  },
+  {
+    "id": "scheme-02",
+    "category": "Ministry of Cooperation Schemes",
+    "question_en": "Are there special schemes for women or youth in cooperatives?",
+    "keywords": ["women cooperative", "youth", "sahakar se samriddhi", "special scheme"],
+    "answers": {
+      "en": "Yes. The Ministry runs outreach under 'Sahakar se Samriddhi' and encourages formation of women- and youth-led cooperatives in dairy, fisheries, and agri-processing, often with priority access to NCDC funding schemes and skill-training tie-ups. Bylaws of a cooperative can also reserve committee seats for women members as per many state Acts — check your society's bylaws and your state Registrar's circulars for the exact reserved-seat rule that applies to you.",
+      "hi": "हाँ। मंत्रालय 'सहकार से समृद्धि' के तहत आउटरीच चलाता है और डेयरी, मत्स्य पालन तथा कृषि-प्रसंस्करण में महिला व युवा नेतृत्व वाली सहकारी समितियों के गठन को प्रोत्साहित करता है, अक्सर NCDC वित्तपोषण योजनाओं और कौशल-प्रशिक्षण साझेदारियों तक प्राथमिकता पहुंच के साथ। कई राज्य अधिनियमों के अनुसार सोसाइटी के उपनियम महिला सदस्यों के लिए समिति सीटें आरक्षित भी कर सकते हैं — अपनी सोसाइटी के उपनियम और अपने राज्य रजिस्ट्रार के परिपत्रों में लागू सटीक आरक्षित-सीट नियम देखें।",
+      "mr": "होय. मंत्रालय 'सहकार से समृद्धी' अंतर्गत उपक्रम राबवते आणि दुग्धव्यवसाय, मत्स्यव्यवसाय व कृषी-प्रक्रिया क्षेत्रात महिला व युवक-नेतृत्वाखालील सहकारी संस्था स्थापण्यास प्रोत्साहन देते, अनेकदा NCDC निधी योजना व कौशल्य-प्रशिक्षण भागीदारीत प्राधान्य प्रवेशासह. अनेक राज्य कायद्यांनुसार संस्थेचे उपविधी महिला सदस्यांसाठी समिती जागा राखीव देखील ठेवू शकतात — तुमच्या संस्थेचे उपविधी व राज्य निबंधकांची परिपत्रके तपासून लागू असलेला नेमका राखीव-जागा नियम पाहा."
+    }
+  },
+  {
+    "id": "finlit-01",
+    "category": "Financial Literacy",
+    "question_en": "What is the difference between simple and compound interest on a loan?",
+    "keywords": ["simple interest", "compound interest", "loan interest", "emi"],
+    "answers": {
+      "en": "Simple interest is calculated only on the original principal for the whole loan term, so it grows the same amount each year. Compound interest is calculated on the principal plus any interest already added, so what you owe grows faster over time. Most cooperative credit society loans use a reducing-balance method (interest charged only on the outstanding principal, recalculated after each repayment), which costs less than flat/compound interest for the same stated rate — always ask your PACS for the effective annual rate, not just the headline rate.",
+      "hi": "साधारण ब्याज पूरी ऋण अवधि के लिए केवल मूल राशि पर परिकलित होता है, इसलिए हर साल यह समान राशि से बढ़ता है। चक्रवृद्धि ब्याज मूल राशि के साथ-साथ पहले से जुड़े ब्याज पर भी परिकलित होता है, इसलिए बकाया राशि समय के साथ तेज़ी से बढ़ती है। अधिकांश सहकारी ऋण समिति के ऋण घटती शेष राशि पद्धति (केवल बकाया मूल राशि पर ब्याज, प्रत्येक भुगतान के बाद पुनर्गणित) का उपयोग करते हैं, जो समान बताई गई दर पर फ्लैट/चक्रवृद्धि ब्याज से कम पड़ता है — हमेशा अपने पैक्स से प्रभावी वार्षिक दर पूछें, केवल शीर्षक दर नहीं।",
+      "mr": "साधे व्याज संपूर्ण कर्ज कालावधीसाठी फक्त मूळ रकमेवर मोजले जाते, त्यामुळे दरवर्षी ते तेवढ्याच रकमेने वाढते. चक्रवाढ व्याज मूळ रक्कम अधिक आधीच जोडलेल्या व्याजावर मोजले जाते, त्यामुळे थकबाकी वेळेनुसार वेगाने वाढते. बहुतांश सहकारी पतसंस्थांची कर्जे घटत्या शिल्लक पद्धतीने (फक्त थकित मूळ रकमेवर व्याज, प्रत्येक परतफेडीनंतर पुनर्गणना) आकारली जातात, जी समान नमूद दराने फ्लॅट/चक्रवाढ व्याजापेक्षा कमी पडते — नेहमी तुमच्या पॅक्सकडे प्रभावी वार्षिक दर विचारा, केवळ जाहीर केलेला दर नाही."
+    }
+  },
+  {
+    "id": "finlit-02",
+    "category": "Financial Literacy",
+    "question_en": "How can I avoid defaulting on my cooperative loan?",
+    "keywords": ["avoid default", "repayment tips", "manage loan", "emi planning"],
+    "answers": {
+      "en": "Match your repayment schedule to your actual cash-flow cycle — for crop loans, ask your PACS for a repayment date after your expected harvest/sale, not a fixed calendar date. Keep a small buffer (even 5-10% of expected income) set aside before spending, since crop or market price shocks are the most common cause of default. If you foresee a genuine problem repaying on time, contact your society before the due date — many societies can restructure or reschedule a loan proactively, but far fewer can help once you're already listed as a defaulter.",
+      "hi": "अपनी भुगतान अनुसूची को अपने वास्तविक नकदी-प्रवाह चक्र से मिलाएं — फसल ऋण के लिए, अपने पैक्स से एक निश्चित कैलेंडर तिथि के बजाय अपनी अपेक्षित फसल/बिक्री के बाद की भुगतान तिथि मांगें। खर्च करने से पहले एक छोटा बफर (अपेक्षित आय का 5-10% भी) अलग रखें, क्योंकि फसल या बाजार मूल्य के झटके चूक का सबसे सामान्य कारण हैं। यदि आपको समय पर भुगतान करने में वास्तविक समस्या दिखे, तो नियत तिथि से पहले अपनी सोसाइटी से संपर्क करें — कई सोसाइटियां सक्रिय रूप से ऋण का पुनर्गठन या पुनर्निर्धारण कर सकती हैं, लेकिन एक बार चूककर्ता के रूप में सूचीबद्ध होने के बाद बहुत कम मदद कर पाती हैं।",
+      "mr": "तुमचे परतफेड वेळापत्रक तुमच्या प्रत्यक्ष रोख-प्रवाह चक्राशी जुळवा — पीक कर्जासाठी, निश्चित दिनदर्शिका तारखेऐवजी अपेक्षित कापणी/विक्रीनंतरची परतफेड तारीख तुमच्या पॅक्सकडे मागा. खर्च करण्यापूर्वी थोडी राखीव रक्कम (अपेक्षित उत्पन्नाच्या 5-10% देखील) बाजूला ठेवा, कारण पीक किंवा बाजारभावातील धक्के हे थकबाकीचे सर्वात सामान्य कारण आहेत. वेळेवर परतफेड करण्यात खरी अडचण दिसल्यास, देय तारखेपूर्वी तुमच्या संस्थेशी संपर्क साधा — अनेक संस्था सक्रियपणे कर्जाची पुनर्रचना किंवा पुनर्नियोजन करू शकतात, पण एकदा थकबाकीदार म्हणून नोंद झाल्यावर फार कमी मदत करू शकतात."
+    }
+  },
+  {
+    "id": "grievance-01",
+    "category": "Grievance Redressal",
+    "question_en": "How do I file a grievance against my cooperative society through this chatbot?",
+    "keywords": ["file grievance", "complaint", "grievance redressal", "how to complain"],
+    "answers": {
+      "en": "You can file a grievance right here: tap 'File a Grievance' in the sidebar, pick a category, and describe the issue in your own words in any supported language. You'll get a tracking reference number immediately — keep it for follow-up. For matters needing legal action (not just a service complaint), you should also formally write to your Registrar of Cooperative Societies, since only the Registrar can direct an inquiry or order corrective action.",
+      "hi": "आप यहीं शिकायत दर्ज कर सकते हैं: साइडबार में 'शिकायत दर्ज करें' पर टैप करें, एक श्रेणी चुनें, और किसी भी समर्थित भाषा में अपने शब्दों में समस्या का वर्णन करें। आपको तुरंत एक ट्रैकिंग संदर्भ संख्या मिलेगी — अनुवर्ती कार्रवाई के लिए इसे सुरक्षित रखें। कानूनी कार्रवाई की आवश्यकता वाले मामलों (केवल सेवा शिकायत नहीं) के लिए, आपको अपने सहकारी सोसाइटी रजिस्ट्रार को औपचारिक रूप से भी लिखना चाहिए, क्योंकि केवल रजिस्ट्रार ही जांच का निर्देश दे सकता है या सुधारात्मक कार्रवाई का आदेश दे सकता है।",
+      "mr": "तुम्ही इथेच तक्रार नोंदवू शकता: साइडबारमध्ये 'तक्रार नोंदवा' वर टॅप करा, एक श्रेणी निवडा, आणि कोणत्याही समर्थित भाषेत तुमच्या शब्दांत समस्या सांगा. तुम्हाला लगेच एक ट्रॅकिंग संदर्भ क्रमांक मिळेल — पाठपुराव्यासाठी तो जपून ठेवा. कायदेशीर कारवाईची गरज असलेल्या प्रकरणांसाठी (केवळ सेवा तक्रार नव्हे), तुम्ही तुमच्या सहकारी संस्था निबंधकांना औपचारिकपणे लेखी कळवावे, कारण फक्त निबंधकच चौकशीचे निर्देश देऊ शकतात किंवा सुधारात्मक कारवाईचा आदेश देऊ शकतात."
+    }
+  }
+]
