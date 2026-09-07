@@ -29,7 +29,6 @@ body {
   min-height: 100vh;
 }
 
-/* ---------- Sidebar: register index ---------- */
 .sidebar {
   background: var(--indigo);
   color: #EFE8D8;
@@ -112,8 +111,6 @@ select#lang-select {
   font-family: inherit;
   font-size: 13.5px;
 }
-
-/* ---------- Main column ---------- */
 .main {
   position: relative;
   display: flex;
@@ -268,7 +265,6 @@ select#lang-select {
 
 .speak-toggle input { cursor: pointer; }
 
-/* ---------- Grievance filing panel ---------- */
 .grievance-btn {
   width: 100%;
   background: var(--ochre);

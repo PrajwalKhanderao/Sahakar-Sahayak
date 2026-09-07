@@ -1,4 +1,4 @@
-const API_BASE = ""; // same origin
+const API_BASE_URL = "https://sahakar-sahayak-1-m7pw.onrender.com";
 
 const logEl = document.getElementById("log");
 const form = document.getElementById("chat-form");
@@ -67,11 +67,9 @@ function addEntry(who, text, metaHtml) {
   logEl.scrollTop = logEl.scrollHeight;
 }
 
-// ---------- Voice input (Speech-to-Text) ----------
 const micBtn = document.getElementById("mic-btn");
 const speakToggle = document.getElementById("speak-toggle");
 
-// Maps our app language codes to BCP-47 locale tags the Web Speech API expects.
 const VOICE_LOCALE = {
   en: "en-IN",
   hi: "hi-IN",
@@ -124,17 +122,14 @@ micBtn.addEventListener("click", () => {
   }
 });
 
-// ---------- Voice output (Text-to-Speech) ----------
 function speak(text, langCode) {
   if (!speakToggle.checked || !("speechSynthesis" in window)) return;
-  // Strip the meta line breaks — just read the natural-language reply.
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = VOICE_LOCALE[langCode] || "en-IN";
-  window.speechSynthesis.cancel(); // don't queue overlapping replies
+  window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utterance);
 }
 
-// ---------- Grievance filing ----------
 const grievancePanel = document.getElementById("grievance-panel");
 const openGrievanceBtn = document.getElementById("open-grievance");
 const cancelGrievanceBtn = document.getElementById("grievance-cancel");
