@@ -1,6 +1,6 @@
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
-scikit-learn==1.5.2
+scikit-learn
 langdetect==1.0.9
 deep-translator==1.11.4
 pydantic==2.9.2
