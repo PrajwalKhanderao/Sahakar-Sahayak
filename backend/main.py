@@ -10,8 +10,8 @@ from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from .knowledge_base import FAQKnowledgeBase
-from .translate_utils import (
+from knowledge_base import FAQKnowledgeBase 
+from translate_utils import (
     CURATED_LANGUAGES,
     SUPPORTED_LANGUAGES,
     detect_language,
