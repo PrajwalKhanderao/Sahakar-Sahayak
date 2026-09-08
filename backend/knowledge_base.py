@@ -15,8 +15,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 DATA_PATH = Path(__file__).parent / "data" / "faqs.json"
 
-# Below this similarity score, we treat the query as "not found" rather than
-# forcing a confident-looking but wrong answer.
 CONFIDENCE_THRESHOLD = 0.12
 
 
@@ -25,9 +23,6 @@ class FAQKnowledgeBase:
         with open(data_path, "r", encoding="utf-8") as f:
             self.faqs = json.load(f)
 
-        # Build the corpus each FAQ is matched against: its English question
-        # plus its keyword list, so both natural questions and short keyword
-        # queries retrieve well.
         self._corpus = [
             f"{item['question_en']} {' '.join(item.get('keywords', []))}"
             for item in self.faqs
