@@ -13,6 +13,7 @@ extend SUPPORTED_LANGUAGES to add more (see README "what to extend first").
 from langdetect import detect, LangDetectException
 from deep_translator import GoogleTranslator
 
+# code -> display name, shown in the language picker in the UI
 SUPPORTED_LANGUAGES = {
     "en": "English",
     "hi": "हिन्दी (Hindi)",
@@ -23,6 +24,9 @@ SUPPORTED_LANGUAGES = {
     "gu": "ગુજરાતી (Gujarati)",
 }
 
+# Languages we have hand-written, verified answers for in the knowledge base.
+# Anything outside this set is machine-translated on the fly from English,
+# which is fine for gisting but should carry a lower-confidence disclaimer.
 CURATED_LANGUAGES = {"en", "hi", "mr"}
 
 
@@ -42,7 +46,8 @@ def to_english(text: str, source_lang: str) -> str:
     try:
         return GoogleTranslator(source=source_lang, target="en").translate(text)
     except Exception:
-        
+        # Network hiccup / translation service unavailable — fall back to
+        # matching on the raw text rather than failing the whole request.
         return text
 
 

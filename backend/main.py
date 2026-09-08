@@ -24,6 +24,8 @@ GRIEVANCES_PATH = Path(__file__).parent / "data" / "grievances.json"
 
 app = FastAPI(title="Cooperative Governance & Legal Assistance Chatbot")
 
+# Wide-open CORS for local prototyping. Tighten this before deploying
+# anywhere beyond your own machine.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -36,7 +38,8 @@ kb = FAQKnowledgeBase()
 
 class ChatRequest(BaseModel):
     message: str
-  
+    # "auto" detects the reply language from the message; otherwise pass an
+    # explicit code from SUPPORTED_LANGUAGES (e.g. the user picked one in the UI).
     lang: str = "auto"
 
 
@@ -177,6 +180,7 @@ def chat(req: ChatRequest):
     )
 
 
+# Serve the chat UI itself at "/", and any static assets under /static.
 app.mount("/static", StaticFiles(directory=FRONTEND_DIR), name="static")
 
 
