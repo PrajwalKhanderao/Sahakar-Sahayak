@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://sahakar-sahayak-1-m7pw.onrender.com";
+const API_BASE = ""; // same origin
 
 const logEl = document.getElementById("log");
 const form = document.getElementById("chat-form");
@@ -7,9 +7,35 @@ const sendBtn = document.getElementById("send-btn");
 const langSelect = document.getElementById("lang-select");
 const catList = document.getElementById("cat-list");
 
+// Free hosting (e.g. Render's free tier) puts the server to sleep after
+// inactivity. The first request after that can take 30-60s to wake it back
+// up, and a plain fetch can fail during that window. This helper retries
+// automatically with increasing delays instead of giving up after one try.
+async function fetchWithRetry(url, options, { retries = 6, baseDelayMs = 4000, onRetry } = {}) {
+  let lastErr;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, options);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res;
+    } catch (err) {
+      lastErr = err;
+      if (attempt < retries) {
+        if (onRetry) onRetry(attempt + 1, retries);
+        await new Promise(r => setTimeout(r, baseDelayMs));
+      }
+    }
+  }
+  throw lastErr;
+}
+
 async function loadMeta() {
   try {
-    const res = await fetch(`${API_BASE}/api/categories`);
+    const res = await fetchWithRetry(`${API_BASE}/api/categories`, undefined, {
+      onRetry: (n) => {
+        catList.innerHTML = `<li>Waking up the server (free hosting) — retry ${n}… this can take up to a minute on first use.</li>`;
+      },
+    });
     const data = await res.json();
 
     catList.innerHTML = "";
@@ -28,6 +54,7 @@ async function loadMeta() {
       opt.value = code;
       opt.textContent = name;
       langSelect.appendChild(opt);
+
     });
   } catch (err) {
     catList.innerHTML = "<li>Could not load topics — is the backend running?</li>";
@@ -67,9 +94,11 @@ function addEntry(who, text, metaHtml) {
   logEl.scrollTop = logEl.scrollHeight;
 }
 
+// ---------- Voice input (Speech-to-Text) ----------
 const micBtn = document.getElementById("mic-btn");
 const speakToggle = document.getElementById("speak-toggle");
 
+// Maps our app language codes to BCP-47 locale tags the Web Speech API expects.
 const VOICE_LOCALE = {
   en: "en-IN",
   hi: "hi-IN",
@@ -122,14 +151,17 @@ micBtn.addEventListener("click", () => {
   }
 });
 
+// ---------- Voice output (Text-to-Speech) ----------
 function speak(text, langCode) {
   if (!speakToggle.checked || !("speechSynthesis" in window)) return;
+  // Strip the meta line breaks — just read the natural-language reply.
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = VOICE_LOCALE[langCode] || "en-IN";
-  window.speechSynthesis.cancel();
+  window.speechSynthesis.cancel(); // don't queue overlapping replies
   window.speechSynthesis.speak(utterance);
 }
 
+// ---------- Grievance filing ----------
 const grievancePanel = document.getElementById("grievance-panel");
 const openGrievanceBtn = document.getElementById("open-grievance");
 const cancelGrievanceBtn = document.getElementById("grievance-cancel");
@@ -213,12 +245,19 @@ form.addEventListener("submit", async (e) => {
   sendBtn.textContent = "…";
 
   try {
-    const res = await fetch(`${API_BASE}/api/chat`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ message, lang: langSelect.value }),
-    });
-    if (!res.ok) throw new Error("Request failed");
+    const res = await fetchWithRetry(
+      `${API_BASE}/api/chat`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message, lang: langSelect.value }),
+      },
+      {
+        onRetry: (n) => {
+          sendBtn.textContent = `Waking up (${n})…`;
+        },
+      }
+    );
     const data = await res.json();
 
     const metaBits = [];
